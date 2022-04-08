@@ -1,0 +1,2 @@
+class LIstexit < ApplicationRecord
+end
